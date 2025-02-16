@@ -35,11 +35,11 @@ By adjusting width of the channel we can obtain approximate current to get the c
  L=180n W=179n
 
    ##### Channel Width(W) vs Drain Current(Id)
-   155n:5.09*10^-5
-   160n:5.14*10^-5
-   165n:5.18*10^-5
-   170n:5.23*10^-5
-   175n:5.27*10^-5
+        155n:5.09*10^-5
+        160n:5.14*10^-5
+        165n:5.18*10^-5
+        170n:5.23*10^-5
+        175n:5.27*10^-5
 
 ### Transient Analysis :
 #### Procedure :
