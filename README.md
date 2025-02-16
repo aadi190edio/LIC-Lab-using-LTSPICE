@@ -22,13 +22,13 @@ Key Characteristics
 ### DC Analysis :
 #### Procedure :
  1.After the Circuit Setup include the Library file(.lib tsmc018.lib) by SPICE Directive.</br>
- 2.In Configure analysis select DC Op pnt.
+ 2.In Configure analysis select DC Op pnt.</br>
 # ![Screenshot 2025-02-17 002651](https://github.com/user-attachments/assets/aceec8d5-e15d-4e72-a09b-644c3062df0b)
      Given P=100*10^-6 W
      W.K.T P=V*I
      By substituting values P=100*10^-6 W and V=1.8V
      We get I= 5.56 * 10^-5 A (Drain Current)
-
+RESULT:
 By adjusting width of the channel we can obtain approximate current to get the corresponding power
 # ![Screenshot 2025-02-17 003523](https://github.com/user-attachments/assets/8f884108-93b7-44c6-b45b-501a34d9c882)
  here
@@ -44,10 +44,16 @@ By adjusting width of the channel we can obtain approximate current to get the c
 ### Transient Analysis :
 #### Procedure :
 1.In Configure analysis select Transient option.</br>
-2.Set the stop time 1m.
+2.Set the stop time 1m.</br>
+3.Select the parameters for voltage source from advanced option.</br>
 # ![Screenshot 2025-02-17 013052](https://github.com/user-attachments/assets/37eba255-e3ae-49cb-b985-38add0cfa925) ![Screenshot 2025-02-17 013422](https://github.com/user-attachments/assets/3ff82d34-b0b4-4c94-888c-eb1d506760e1)
 
 
 RESULT:
 # ![Screenshot 2025-02-17 005211](https://github.com/user-attachments/assets/8d313ba9-1aa7-4e81-b5ad-a4c455db8b8f)
 
+### AC Analysis :
+#### Procedure :
+1.In Configure analysis select AC Analysis option.</br>
+2.Select the type of sweep,no of points,start and end frequency.</br>
+#![Screenshot 2025-02-17 013112](https://github.com/user-attachments/assets/e9b350e0-313b-4263-9d43-4153bcbae47b)
