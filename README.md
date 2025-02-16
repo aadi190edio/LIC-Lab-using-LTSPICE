@@ -19,6 +19,10 @@ Key Characteristics
 - Limited Voltage Swing: Constrained by biasing and power supply.  
 
 ## Circuit 1 :
+### DC Analysis :
+#### Procedure :
+1.After the Circuit Setup include the Library file(.lib tsmc018.lib) by SPICE Directive
+2.In Configure analysis select DC Op pnt.
 # ![Screenshot 2025-02-17 002651](https://github.com/user-attachments/assets/aceec8d5-e15d-4e72-a09b-644c3062df0b)
   Given P=100*10^-6 W
   W.K.T P=V*I
@@ -29,3 +33,17 @@ By adjusting width of the channel we can obtain approximate current to get the c
 # ![Screenshot 2025-02-17 003523](https://github.com/user-attachments/assets/8f884108-93b7-44c6-b45b-501a34d9c882)
  here
  L=180n W=179n
+
+Channel Width(W) vs Drain Current(Id)
+155n:5.09*10^-5
+160n:5.14*10^-5
+165n:5.18*10^-5
+170n:5.23*10^-5
+175n:5.27*10^-5
+
+### Transient Analysis :
+#### Procedure :
+1.In Configure analysis select Transient option.
+2.Set the stop time 1m.
+# ![Screenshot 2025-02-17 005211](https://github.com/user-attachments/assets/8d313ba9-1aa7-4e81-b5ad-a4c455db8b8f)
+
