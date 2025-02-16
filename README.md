@@ -57,3 +57,6 @@ RESULT:
 1.In Configure analysis select AC Analysis option.</br>
 2.Select the type of sweep,no of points,start and end frequency.</br>
 #![Screenshot 2025-02-17 013112](https://github.com/user-attachments/assets/e9b350e0-313b-4263-9d43-4153bcbae47b)
+RESULT:
+#![Screenshot 2025-02-17 013023](https://github.com/user-attachments/assets/f3f27e1c-ad2f-4e0a-8044-b3e394b792bf)
+
