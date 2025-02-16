@@ -20,12 +20,12 @@ Key Characteristics
 
 ## Circuit 1 :
 # ![Screenshot 2025-02-17 002651](https://github.com/user-attachments/assets/aceec8d5-e15d-4e72-a09b-644c3062df0b)
-Given P=100*10^-6 W
-W.K.T P=V*I
-By substituting values P=100*10^-6 W and V=1.8V
-We get I= 5.56 * 10^-5 A (Drain Current)
+ Given P=100*10^-6 W
+ W.K.T P=V*I
+ By substituting values P=100*10^-6 W and V=1.8V
+ We get I= 5.56 * 10^-5 A (Drain Current)
 
 By adjusting width of the channel we can obtain approximate current to get the corresponding power
 # ![Screenshot 2025-02-17 003523](https://github.com/user-attachments/assets/8f884108-93b7-44c6-b45b-501a34d9c882)
-here
-L=180n W=179n
+ here
+ L=180n W=179n
