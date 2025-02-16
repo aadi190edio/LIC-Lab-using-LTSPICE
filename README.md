@@ -43,6 +43,9 @@ By adjusting width of the channel we can obtain approximate current to get the c
 
 ### Transient Analysis :
 #### Procedure :
+# ![Screenshot 2025-02-17 013052](https://github.com/user-attachments/assets/37eba255-e3ae-49cb-b985-38add0cfa925) ![Screenshot 2025-02-17 013422](https://github.com/user-attachments/assets/3ff82d34-b0b4-4c94-888c-eb1d506760e1)
+
+
 1.In Configure analysis select Transient option.</br>
 2.Set the stop time 1m.
 # ![Screenshot 2025-02-17 005211](https://github.com/user-attachments/assets/8d313ba9-1aa7-4e81-b5ad-a4c455db8b8f)
