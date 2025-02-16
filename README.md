@@ -21,7 +21,7 @@ Key Characteristics
 ## Circuit 1 :
 ### DC Analysis :
 #### Procedure :
- 1.After the Circuit Setup include the Library file(.lib tsmc018.lib) by SPICE Directive.
+ 1.After the Circuit Setup include the Library file(.lib tsmc018.lib) by SPICE Directive.</br>
  2.In Configure analysis select DC Op pnt.
 # ![Screenshot 2025-02-17 002651](https://github.com/user-attachments/assets/aceec8d5-e15d-4e72-a09b-644c3062df0b)
      Given P=100*10^-6 W
