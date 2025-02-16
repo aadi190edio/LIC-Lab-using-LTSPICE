@@ -18,3 +18,6 @@ Key Characteristics
 - Phase Inversion: Output is inverted with respect to input.  
 - Limited Voltage Swing: Constrained by biasing and power supply.  
 
+## Circuit 1 :
+  ![Screenshot 2025-02-17 002651](https://github.com/user-attachments/assets/aceec8d5-e15d-4e72-a09b-644c3062df0b)
+
