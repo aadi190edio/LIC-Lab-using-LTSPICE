@@ -33,13 +33,13 @@ By adjusting width of the channel we can obtain approximate current to get the c
 # ![Screenshot 2025-02-17 003523](https://github.com/user-attachments/assets/8f884108-93b7-44c6-b45b-501a34d9c882)
  here
  L=180n W=179n
-
-   ##### Channel Width(W) vs Drain Current(Id)
-        155n:5.09*10^-5
-        160n:5.14*10^-5
-        165n:5.18*10^-5
-        170n:5.23*10^-5
-        175n:5.27*10^-5
+ |Channel Width(nm)|Drain Current(A)|
+ | --- | --- |
+ |155|5.09*10^-5|
+ |160|5.14*10^-5|
+ |165|5.18*10^-5|
+ |170|5.23*10^-5|
+ |175|5.27*10^-5|
 
 ### Transient Analysis :
 #### Procedure :
