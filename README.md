@@ -82,6 +82,14 @@ RESULT:
 3.Select the parameters for voltage source from advanced option.</br>
 # ![Screenshot 2025-02-17 013052](https://github.com/user-attachments/assets/37eba255-e3ae-49cb-b985-38add0cfa925) ![Screenshot 2025-02-17 013422](https://github.com/user-attachments/assets/3ff82d34-b0b4-4c94-888c-eb1d506760e1)
 Result:
-![Screenshot 2025-02-17 112952](https://github.com/user-attachments/assets/6a54dd72-720d-4de7-a183-404bdd5a753f)
+# ![Screenshot 2025-02-17 112952](https://github.com/user-attachments/assets/6a54dd72-720d-4de7-a183-404bdd5a753f)
 
+### AC Analysis :
+#### Procedure :
+1.In Configure analysis select AC Analysis option.</br>
+2.Select the type of sweep,no of points,start and end frequency.</br>
+
+# ![Screenshot 2025-02-17 013112](https://github.com/user-attachments/assets/e9b350e0-313b-4263-9d43-4153bcbae47b)
+Result:
+# ![Screenshot 2025-02-17 114026](https://github.com/user-attachments/assets/486a79f4-e0f4-4a8d-b81b-812c1359169e)
 
