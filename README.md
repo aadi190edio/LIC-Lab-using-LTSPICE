@@ -34,7 +34,7 @@ By adjusting width of the channel we can obtain approximate current to get the c
  here
  L=180n W=179n
  |Channel Width(nm)|Drain Current(A)|
- 
+ | --- | --- |
  |155|5.09*10^-5|
  |160|5.14*10^-5|
  |165|5.18*10^-5|
