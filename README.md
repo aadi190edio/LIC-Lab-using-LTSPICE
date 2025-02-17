@@ -75,3 +75,13 @@ RESULT:
  Set the W and L to get the desired current value.
  ![Screenshot 2025-02-17 112205](https://github.com/user-attachments/assets/6e104b65-7f21-4f97-8fb1-0e87738de37c)
 
+ ### Transient Analysis :
+#### Procedure :
+1.In Configure analysis select Transient option.</br>
+2.Set the stop time 1m.</br>
+3.Select the parameters for voltage source from advanced option.</br>
+# ![Screenshot 2025-02-17 013052](https://github.com/user-attachments/assets/37eba255-e3ae-49cb-b985-38add0cfa925) ![Screenshot 2025-02-17 013422](https://github.com/user-attachments/assets/3ff82d34-b0b4-4c94-888c-eb1d506760e1)
+Result:
+![Screenshot 2025-02-17 112952](https://github.com/user-attachments/assets/6a54dd72-720d-4de7-a183-404bdd5a753f)
+
+
