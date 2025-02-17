@@ -66,3 +66,12 @@ RESULT:
 1.The Drain current varies with change in width of channel as per the table.</br>
 2.There is 180 Degree phase shift which can be observed  from transient analysis.</br>
 
+## Circuit 2 :
+![Screenshot 2025-02-17 112134](https://github.com/user-attachments/assets/98bf0839-9f83-4efa-81ee-302498d6793f)
+### DC Analysis :
+#### Procedure :
+ 1.After the Circuit Setup include the Library file(.lib tsmc018.lib) by SPICE Directive.</br>
+ 2.In Configure analysis select DC Op pnt.</br>
+ Set the W and L to get the desired current value.
+ ![Screenshot 2025-02-17 112205](https://github.com/user-attachments/assets/6e104b65-7f21-4f97-8fb1-0e87738de37c)
+
