@@ -62,3 +62,7 @@ RESULT:
 RESULT:
 # ![Screenshot 2025-02-17 013023](https://github.com/user-attachments/assets/f3f27e1c-ad2f-4e0a-8044-b3e394b792bf)
 
+# Inference
+1.The Drain current varies with change in width of channel as per the table.
+2.There is 180 Degree phase shift which can be observed  from transient analysis.
+
