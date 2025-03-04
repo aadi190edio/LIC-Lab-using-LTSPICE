@@ -1,7 +1,7 @@
 # Experiment 3 : Differential Amplifier – Design in LTspice using 180 nm technology lib.
 
 ## Aim : 
-To Design a basic diffrential amplifier for the following specificationVdd=3.3V,P<=3mW,Vincm=1.72V,Vocm=1.8V,Vp=0.7V,Perform DC Analysis,Transient analysis,AC Analysis and extract the required parameters.
+To Design a basic diffrential amplifier for the following specification Vdd=3.3V,P<=3mW,Vincm=1.72V,Vocm=1.8V,Vp=0.7V,Perform DC Analysis,Transient analysis,AC Analysis and extract the required parameters.
 ## Components Required :
 N-MOSFET(x3),Resistors(3,3k,0.77k),Power supply(3.3v,),Current source().
 
@@ -29,3 +29,13 @@ The difference between two inputs : V1 - V2</br>
 3.There should be no mismatch in Circuit elements like MOSFETs(M1,M2),Power supply(Vdd) and resistors(Rd,Rss).</br>
 Vout1=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
 Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
+
+## Circuit 1 :
+### Calculation:
+For the above specification</br> 
+Iss=P/Vdd=(3*10^-3)/3.3=0.9mA</br>
+Id1=Id2=Iss/2=0.45mA</br>
+Rd=(Vdd-Vocm)/Id=(3.3-1.8)/0.45*10^-3=3.3kohm</br>
+Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
+
+
