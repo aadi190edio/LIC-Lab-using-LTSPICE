@@ -4,7 +4,7 @@ Experiments related to  Linear Integrated Cicuits using LTSPICE.
 ## Aim:
  To Perform DC,AC and Transient analysis of Single stage CS Amplifier by including necessary libraries for power rating of 100µW and Vary the Width of channel too see the changes in drain current.
 ## Components and Libraries Required :
- N-MOSFET(nmos4,pmos4),Resistor(),Power Supply(DC:1.8V and 0.9V)
+ N-MOSFET(nmos4,pmos4),Resistor(1k),Power Supply(DC:1.8V and 0.9V)
  tsmc018.lib(Library File)
 ## Theory :
 An NMOS single-stage amplifier amplifies small input signals by operating the NMOS transistor in the saturation region, where it behaves as a voltage-controlled current source. For proper amplification, the transistor must satisfy:
