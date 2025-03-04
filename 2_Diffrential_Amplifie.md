@@ -71,7 +71,13 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
     Bandwith=279MHz
     Gain in Midband Frequency=10.085
 #### Rd Variation Analysis:
-
+|Rd(kohm)|Vout(v)|Iss(mA)|
+ | --- | --- | -- |
+ |3.1|1.88|0.912|
+ |3.2|1.843|0.910|
+ |3.3|1.8|0.909|
+ |3.4|1.75|0.907|
+ |3.5|1.71|0.905|
 
 
 
