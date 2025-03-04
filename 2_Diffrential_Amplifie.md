@@ -32,11 +32,10 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
 
 ## Circuit 1 :
 ### Calculation:
-For the above specification</br> 
-Iss=P/Vdd=(3x10^-3)/3.3=0.9mA</br>
-Id1=Id2=Iss/2=0.45mA</br>
-Rd=(Vdd-Vocm)/Id=(3.3-1.8)/0.45*10^-3=3.3kohm</br>
-Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
+    Iss=P/Vdd=(3x10^-3)/3.3=0.9mA</br>
+    Id1=Id2=Iss/2=0.45mA</br>
+    Rd=(Vdd-Vocm)/Id=(3.3-1.8)/0.45*10^-3=3.3kohm</br>
+    Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
 ### Circuit:
 ![Screenshot 2025-03-04 231747](https://github.com/user-attachments/assets/f4b2c3e2-da96-48f4-91db-96fd70450ae9)
 ### Procedure:
@@ -62,7 +61,10 @@ Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
     In dB:
     Gain=20log(1.23)
         =1.79dB
-
+#### AC Analysis:
+1.Go for the Configure analysis option and select select AC Analysis.</br>
+2.Run Simulation.</br>
+3.Note down gain and bandwidth.</br>
 
 
 
