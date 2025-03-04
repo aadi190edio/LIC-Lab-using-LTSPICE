@@ -44,7 +44,22 @@ Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
 1.Design the circuit as per the specification.</br>
 2.Go for the Configure analysis option and select DC op pnt.</br>
 3.Run Simulation.</br>
-4.Adjust the Width to get corresponding Iss and Vout in table.
+4.Adjust the Width of both Mosfet to get corresponding Iss and Vout in table.</br>
+#### Result:
+![Screenshot 2025-03-04 232402](https://github.com/user-attachments/assets/de5da78d-2fbb-489c-9691-d237dd9eb8e0)
+#### Transient Analysis:
+1.Go for the Configure analysis option and select select transient option.</br>
+2.Modifiy V1 and V2 voltage sources by advanced options with SINE Wave.</br>
+3.Run Simulation.</br>
+4.Note down Vin and Vout waveforms.</br>
+![Screenshot 2025-03-04 234452](https://github.com/user-attachments/assets/991c719c-b587-46eb-8b8c-f5b35ac1d4dd)
+#### Result :
+![Screenshot 2025-03-04 234013](https://github.com/user-attachments/assets/c0758c03-71e7-42ca-9fd3-345c9d444e33)
+Gain Calculation:
+
+
+
+
 
 
 
