@@ -37,5 +37,15 @@ Iss=P/Vdd=(3x10^-3)/3.3=0.9mA</br>
 Id1=Id2=Iss/2=0.45mA</br>
 Rd=(Vdd-Vocm)/Id=(3.3-1.8)/0.45*10^-3=3.3kohm</br>
 Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
+### Circuit:
+![Screenshot 2025-03-04 231747](https://github.com/user-attachments/assets/f4b2c3e2-da96-48f4-91db-96fd70450ae9)
+### Procedure:
+#### DC Analysis:
+1.Design the circuit as per the specification.</br>
+2.Go for the Configure analysis option and select DC op pnt.</br>
+3.Run Simulation.</br>
+4.Adjust the Width to get corresponding Iss and Vout in table.
+
+
 
 
