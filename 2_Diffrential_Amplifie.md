@@ -33,7 +33,7 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
 ## Circuit 1 :
 ### Calculation:
 For the above specification</br> 
-Iss=P/Vdd=(3*10^-3)/3.3=0.9mA</br>
+Iss=P/Vdd=(3x10^-3)/3.3=0.9mA</br>
 Id1=Id2=Iss/2=0.45mA</br>
 Rd=(Vdd-Vocm)/Id=(3.3-1.8)/0.45*10^-3=3.3kohm</br>
 Rss=Vp/Iss=0.7/0.9*10^-3=0.77kohm</br>
