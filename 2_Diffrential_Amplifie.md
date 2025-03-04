@@ -2,7 +2,7 @@
 
 ## Aim : 
 To Design a basic diffrential amplifier for the following specification Vdd=3.3V,P<=3mW,Vincm=1.72V,Vocm=1.8V,Vp=0.7V,Perform DC Analysis,Transient analysis,AC Analysis and extract the required parameters.
-## Components Required :
+## Components Required  :
 N-MOSFET(x3),Resistors(3,3k,0.77k),Power supply(3.3v,),Current source().
 
 ## Theory : 
