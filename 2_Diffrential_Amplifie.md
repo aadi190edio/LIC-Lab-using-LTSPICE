@@ -78,6 +78,7 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
  |3.3|1.8|0.909|
  |3.4|1.75|0.907|
  |3.5|1.71|0.905|
+
 ## Circuit 2:
 # ![Screenshot 2025-03-05 081335](https://github.com/user-attachments/assets/22e9909b-751f-452a-bdc9-52cce3968acd)
 ### Procedure:
@@ -98,6 +99,12 @@ Same Procedure as for the Circuit 1.</br>
     In dB:
     Gain=20log(3.21)
         =10.13dB
+#### AC Analysis:</br>
+Same Procedure as for the Circuit 1.</br>
+#### Result:
+# ![Screenshot 2025-03-05 082619](https://github.com/user-attachments/assets/7d3c6aa3-183a-4aab-86f5-0eac46672de5)
+Bandwidth:553MHz Gain in Midband Region = 10.09.</br>
+
 
 
 
