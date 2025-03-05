@@ -69,7 +69,7 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
 #### Result :
 # ![Screenshot 2025-03-05 001010](https://github.com/user-attachments/assets/26116dc1-504c-4b1f-adf3-179752d59f36)
     Bandwith=279MHz
-    Gain in Midband Frequency=10.085
+    
 #### Rd Variation Analysis:
 |Rd(kohm)|Vout(v)|Iss(mA)|
  | --- | --- | -- |
@@ -103,7 +103,38 @@ Same Procedure as for the Circuit 1.</br>
 Same Procedure as for the Circuit 1.</br>
 #### Result:
 # ![Screenshot 2025-03-05 082619](https://github.com/user-attachments/assets/7d3c6aa3-183a-4aab-86f5-0eac46672de5)
-Bandwidth: 553MHz</br> Gain in Midband Region = 10.09.</br>
+Bandwidth: 553MHz</br> 
+
+## Circuit 3:
+# ![Screenshot 2025-03-05 084057](https://github.com/user-attachments/assets/ff6a7519-fc39-4410-9a27-368e3607f24e)
+
+### Procedure:
+#### DC Analysis:
+1.Design the circuit as per the specification.</br>
+2.Go for the Configure analysis option and select DC op pnt.</br>
+3.Run Simulation.</br>
+4.Vg=Vth+Vp.</br>
+#### Result:
+# ![Screenshot 2025-03-05 084110](https://github.com/user-attachments/assets/e40b0c15-1b31-45e0-add4-3aa3dbf24f93)
+
+#### Transient Analysis:</br>
+Same Procedure as for the Circuit 1.</br>
+#### Result:
+# ![Screenshot 2025-03-05 084140](https://github.com/user-attachments/assets/89a80d2d-75f3-43f6-8909-ec29202e2bc9)
+
+    Gain Calculation:
+    Gain = Vout/Vin
+         = (1.959-1.640)/(1.769-1.670)
+        = 3.22
+    In dB:
+    Gain=20log(3.22)
+        =10.15dB
+#### AC Analysis:</br>
+Same Procedure as for the Circuit 1.</br>
+#### Result:
+# ![Screenshot 2025-03-05 084231](https://github.com/user-attachments/assets/8f759eba-1995-407c-b20d-c5d05d898456)
+
+Bandwidth: 36.86GHz</br> 
 
 
 
