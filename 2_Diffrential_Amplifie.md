@@ -103,7 +103,7 @@ Same Procedure as for the Circuit 1.</br>
 Same Procedure as for the Circuit 1.</br>
 #### Result:
 # ![Screenshot 2025-03-05 082619](https://github.com/user-attachments/assets/7d3c6aa3-183a-4aab-86f5-0eac46672de5)
-Bandwidth:553MHz Gain in Midband Region = 10.09.</br>
+Bandwidth: 553MHz</br> Gain in Midband Region = 10.09.</br>
 
 
 
