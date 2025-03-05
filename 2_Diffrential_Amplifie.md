@@ -78,8 +78,26 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
  |3.3|1.8|0.909|
  |3.4|1.75|0.907|
  |3.5|1.71|0.905|
-
-
+## Circuit 2:
+# ![Screenshot 2025-03-05 081335](https://github.com/user-attachments/assets/22e9909b-751f-452a-bdc9-52cce3968acd)
+### Procedure:
+#### DC Analysis:
+1.Design the circuit as per the specification.</br>
+2.Go for the Configure analysis option and select DC op pnt.</br>
+3.Run Simulation.</br>
+#### Result:
+# ![Screenshot 2025-03-05 081317](https://github.com/user-attachments/assets/bcc5bbea-b297-431d-911e-7ba970533418)
+#### Transient Analysis:</br>
+Same Procedure as for the Circuit 1.</br>
+#### Result:
+# ![Screenshot 2025-03-05 081825](https://github.com/user-attachments/assets/a19358e0-2d3e-469f-ab80-48f59ec58794)
+    Gain Calculation:
+    Gain = Vout/Vin
+         = (1.973-1.655)/(1.769-1.670)
+        = 3.21
+    In dB:
+    Gain=20log(3.21)
+        =10.13dB
 
 
 
