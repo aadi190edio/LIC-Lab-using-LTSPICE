@@ -68,7 +68,7 @@ Vout2=(-gm X Rd X Vcm)/(1+2 X gm X Rs)</br>
 # ![Screenshot 2025-03-05 001134](https://github.com/user-attachments/assets/74afe3ab-4acb-4526-a0e5-e6994325d827)
 #### Result :
 # ![Screenshot 2025-03-05 001010](https://github.com/user-attachments/assets/26116dc1-504c-4b1f-adf3-179752d59f36)
-    Bandwith=279MHz
+    Bandwith=36.86GHz
     
 #### Rd Variation Analysis:
 |Rd(kohm)|Vout(v)|Iss(mA)|
