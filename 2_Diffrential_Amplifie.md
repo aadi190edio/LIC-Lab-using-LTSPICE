@@ -103,7 +103,7 @@ Same Procedure as for the Circuit 1.</br>
 Same Procedure as for the Circuit 1.</br>
 #### Result:
 # ![Screenshot 2025-03-05 082619](https://github.com/user-attachments/assets/7d3c6aa3-183a-4aab-86f5-0eac46672de5)
-Bandwidth: 553MHz</br> 
+Bandwidth: 37.43GHz</br> 
 
 ## Circuit 3:
 # ![Screenshot 2025-03-05 084057](https://github.com/user-attachments/assets/ff6a7519-fc39-4410-9a27-368e3607f24e)
