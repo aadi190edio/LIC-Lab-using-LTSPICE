@@ -38,11 +38,11 @@ The output current (Ix) is forced through M2.</br>
 Since M2 is in saturation, it ensures that M1 and M3 operate correctly.</br>
 
 #### Calculation:
-    For 1:1 Ratio:</br>
-    Itotal=P/Vdd=1*10^-3/1.8=0.55mA</br>
-    Itotal=Iref+Ix</br>
-          =2Iref(Since ratio is 1:1)</br>
-          Iref=Ix=0.275mA)</br>
+    For 1:1 Ratio:
+    Itotal= P/Vdd=1*10^-3/1.8= 0.55mA
+    Itotal=Iref+Ix
+          =2Iref(Since ratio is 1:1)
+    Iref=Ix=0.275mA)
 ##### Circuit:
 ![1_1ckt](https://github.com/user-attachments/assets/64689321-ce2d-4ffa-8a76-c933d8175abc)</br>
 #### DC Analysis:
@@ -54,17 +54,47 @@ Current mirroring is ocurring as per the ratio</br>
 #### Transient Analysis:
 ![1_1trans](https://github.com/user-attachments/assets/6d4b222e-7f86-49d2-8cac-7b0d8213e49f)
 
-    Gain Calculation:</br>
-    **Gain=Vout/Vin**</br>
-    0.979-0.818/1-0.990</br>
-    =16.1</br>
-    **In dB Scale:**</br>
-    dB=20log(Gain)=24.31</br>
+    Gain Calculation:
+    **Gain=Vout/Vin**
+    0.979-0.818/1-0.990
+    =16.1
+    **In dB Scale:**
+    dB=20log(Gain)=24.31
 #### AC Analysis:
 ![1_1ac](https://github.com/user-attachments/assets/8d6889ab-c541-4cc7-b569-76d2cdd1f022)
 
-    -3dB Gain=15.82</br>
+    -3dB Gain=15.82 
     Bandwidth=2.29GHz
+
+    For 1:2 Ratio:
+    Itotal= P/Vdd=1*10^-3/1.8= 0.55mA
+    Itotal=Iref+Ix
+          =3Iref(Since ratio is 1:1)
+    Iref=0.183mA
+    Ix=2Iref=0.366mA
+##### Circuit:
+![1_2ckt (2)](https://github.com/user-attachments/assets/3b3c4e87-594d-4657-a225-499196cefe3e)</br>
+#### DC Analysis:
+By Adjusting Width</br>
+![1_2ratio_](https://github.com/user-attachments/assets/6b798dd8-9b07-48ba-a3bc-f72511dd8d46)
+
+<u>So We can observe that Ix is twice as Iref(Due to 1:2 Ratio)</u></br>
+Current mirroring is ocurring as per the ratio</br>
+#### Transient Analysis:
+![1_2trans](https://github.com/user-attachments/assets/f33ba827-5546-4795-bfc8-fe644597c0ad)
+
+    Gain Calculation:
+    **Gain=Vout/Vin**
+    0.774-0.595/1-0.990
+    =17.9
+    **In dB Scale:**
+    dB=20log(Gain)=25.05
+#### AC Analysis:
+![1_2ac](https://github.com/user-attachments/assets/455a6f15-0b5e-4099-a9d9-c6759b4c4a27)
+
+
+    -3dB Gain=16.22
+    Bandwidth=1.15GHz
 
 
       
