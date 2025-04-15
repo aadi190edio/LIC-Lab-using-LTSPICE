@@ -15,7 +15,7 @@ equipment, analog input modules, LCD test equipment and patient monitoring
 systems. The general definition of an INA is a circuit or device fitted with one to three 
 internal operational amplifiers (op amps) to improve signal quality and increase 
 common-mode rejection. The more common type of INA is the three op-amp 
-configuration 
+configuration.
 ## Basic Circuit Diagram:
 ![Screenshot 2025-04-15 223919](https://github.com/user-attachments/assets/2016b5bd-02ee-485e-8f0f-708564a35c0f)
 
@@ -49,8 +49,10 @@ configuration
 2.Set Vin and Rg for each case.</br>
 3.Perform transient analysis and find Adm.</br>
 
-Analysis:
+Analysis: </br>
 **1.For Rg=10 ohm.** </br>
+![rg1](https://github.com/user-attachments/assets/437f342b-6551-4a86-9a0e-7352a8b44e1a)
+
 
 **2.For Rg=100 ohm.** </br>
 ![rg2](https://github.com/user-attachments/assets/78cefd09-e47c-4cf6-a661-cb7f8d61e86b)
@@ -70,8 +72,8 @@ Analysis:
 
 | Resistance(RG in ohms) | Adm(Calculated) | Adm(Simulated) |
 | :---         |     :---:      |          ---: |
-| 10   | 4002   |      |
-| 100  | 402    |      |
-| 1k   | 42     |      |
-| 10k  | 6      |      |
-| 20k  | 4      |      |
+| 10   | 4002   |    1745.84  |
+| 100  | 402    |    392      |
+| 1k   | 42     |    42       |
+| 10k  | 6      |    6        |
+| 20k  | 4      |    4        |
