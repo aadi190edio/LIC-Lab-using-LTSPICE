@@ -42,6 +42,12 @@ configuration
         
      
 ## Simulation:
+![Screenshot 2025-04-15 234649](https://github.com/user-attachments/assets/16066d3b-b823-469e-a434-5f7a7603a3ff)
+
+### Procedure :
+1.Set up the circuit as above.</br>
+2.Set Vin and Rg for each case.</br>
+3.Perform transient analysis and find Adm.</br>
 
 | Resistance(RG in ohms) | Adm(Calculated) | Adm(Simulated) |
 | :---         |     :---:      |          ---: |
