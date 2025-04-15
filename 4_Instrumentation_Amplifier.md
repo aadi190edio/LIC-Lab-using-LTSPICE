@@ -68,6 +68,10 @@ Analysis: </br>
 
 
 
+**To find Acm**
+![Screenshot 2025-04-16 002813](https://github.com/user-attachments/assets/dcd4e32c-5403-4ede-b6bb-02f148da7e7d)
+
+
 
 
 | Resistance(RG in ohms) | Adm(Calculated) | Adm(Simulated) |
