@@ -38,6 +38,11 @@ configuration
          Adm=(20k/10k)(1+(20k/20k)) </br>
             = 4 v/v </br>
 
+     Finding Vid (Diffrential input) to be applied :
+        
+     
+## Simulation:
+
 | Resistance(RG in ohms) | Adm(Calculated) | Adm(Simulated) |
 | :---         |     :---:      |          ---: |
 | 10   | 4002   |      |
