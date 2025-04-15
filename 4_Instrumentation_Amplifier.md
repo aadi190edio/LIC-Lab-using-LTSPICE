@@ -49,6 +49,25 @@ configuration
 2.Set Vin and Rg for each case.</br>
 3.Perform transient analysis and find Adm.</br>
 
+Analysis:
+**1.For Rg=10 ohm.** </br>
+
+**2.For Rg=100 ohm.** </br>
+![rg2](https://github.com/user-attachments/assets/78cefd09-e47c-4cf6-a661-cb7f8d61e86b)
+
+**3.For Rg=1k ohm.** </br>
+![rg3](https://github.com/user-attachments/assets/b593dc3d-4734-442e-8b1f-fcac7aeba321)
+
+**4.For Rg=10k ohm.** </br>
+![rg4](https://github.com/user-attachments/assets/05de57a2-dc8f-41be-a08e-ebb1258bf6a2)
+
+**5.For Rg=20k ohm.** </br>
+![rg5](https://github.com/user-attachments/assets/3a2e5863-5728-4162-94a3-3d43eb7eb1d8)
+
+
+
+
+
 | Resistance(RG in ohms) | Adm(Calculated) | Adm(Simulated) |
 | :---         |     :---:      |          ---: |
 | 10   | 4002   |      |
